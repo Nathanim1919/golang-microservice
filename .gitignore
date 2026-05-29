@@ -24,14 +24,13 @@ dist/
 *.swo
 
 # Environment files
-.env
-.env.*
 !.env.example
 
 # IDE/editor
-.vscode/
 .idea/
 
 # OS files
 .DS_Store
 Thumbs.db
+config.bat
+node_modules
